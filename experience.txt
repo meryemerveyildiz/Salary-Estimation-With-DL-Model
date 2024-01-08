@@ -1,0 +1,8 @@
+	0 - 1 yl
+	1 - 3 yl
+ 	3 - 5 yl
+        5 - 7 yl
+        7 - 10 yl
+ 	10 - 12 yl
+	12 - 14 yl
+        15 yl ve uzeri

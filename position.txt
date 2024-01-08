@@ -1,0 +1,56 @@
+        back-end developer 
+        full stack developer 
+        front-end developer 
+        team / tech lead 
+        qa / automation 
+        project manager 
+        erp 
+        game developer 
+        software architect 
+        software development manager / engineering manager 
+        mobile application developer (android) 
+        data scientist 
+        data analyst 
+        mobile application developer (ios) 
+        sap/abap 
+        director of software development 
+        devops engineer 
+        qa / manuel test 
+        mobile application developer (full stack) 
+        embedded software developer 
+        product owner 
+        cto 
+        data engineer 
+        business analyst 
+        qa manager 
+        database administrator (dba) 
+        product manager 
+        rpa developer 
+        it manager 
+        big data engineer 
+        mobile application developer (flutter) 
+        support manager 
+        machine learning engineer 
+        artificial / intelligence engineer 
+        network & system engineer 
+        cloud engineer 
+        cyber security 
+        blockchain developer 
+        crm developer 
+        salesforce developer 
+        computer vision engineer 
+        game designer 
+        technical analyst 
+        support 
+        consultant 
+        ai developer 
+        it 
+        ui/ux designer 
+        sre 
+        platform engineer 
+        integration developer 
+        release manager 
+        solution architect 
+        it recruiter 
+        desktop application development 
+        integration manager 

@@ -1,0 +1,107 @@
+        * abd 
+        * almanya
+        * avusturya 
+        * azerbaycan 
+        * belcika
+        * bosna hersek 
+        * bulgaristan 
+        * cekya 
+        * dubai 
+        * estonya 
+        * finlandiya 
+        * fransa 
+        * gurcistan 
+        * hollanda 
+        * hong kong 
+        * hrvatistan 
+        * ingiltere 
+        * irlanda
+        * ispanya 
+        * isvec 
+        * isvicre 
+        * italya 
+        * kanada 
+        * kktc 
+        * kosova 
+        * luksemburg 
+        * malta 
+        * msr 
+        * norvec 
+        * polonya 
+        * romanya 
+        * srbistan 
+        * suudi arabistan 
+        * yunanistan 
+        adana 
+        afyon 
+        afyonkarahisar 
+        agr 
+        aksaray 
+        amasya 
+        ankara
+        antalya 
+        ardahan 
+        aydin 
+        aydn 
+        balikesir 
+        balkesir 
+        batman 
+        bilecik 
+        bitlis 
+        bolu 
+        burdur 
+        bursa 
+        canakkale 
+        cankr 
+        corum
+        denizli 
+        diyarbakr 
+        duzce
+        eakisehir 
+        edirne 
+        elazg 
+        erzincan 
+        erzurum 
+        eskisehir
+        gaziantep 
+        giresun 
+        gumushane 
+        hatay 
+        isparta 
+        istanbul
+        izmir
+        kahramanmaras 
+        karabuk 
+        kastamonu 
+        kayseri
+        kilis 
+        kocaeli
+        konya 
+        krkkale 
+        krklareli 
+        krsehir 
+        kutahya 
+        malatya 
+        manisa 
+        mardin 
+        mersin
+        mugla 
+        mus 
+        nevsehir 
+        nigde 
+        ordu 
+        osmaniye 
+        rize 
+        sakarya 
+        samsun 
+        sanlurfa 
+        sinop 
+        sivas 
+        tekirdag 
+        tokat 
+        trabzon 
+        usak 
+        van 
+        yalova 
+        yozgat 
+        zonguldak 

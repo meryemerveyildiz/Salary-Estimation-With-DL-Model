@@ -1,0 +1,42 @@
+        yazlm evi & dansmanlk 
+        kurumsal 
+        banka 
+        startup 
+        e-ticaret 
+        lojistik 
+        oyun 
+        outsource 
+        erp 
+        dijital / reklam ajans 
+        finans 
+        otomotiv 
+        fintech 
+        kripto 
+        teknoloji 
+        turizm 
+        diger 
+        kobi 
+        kamu 
+        saglk 
+        savunma 
+        ar-ge 
+        telekonumikasyon 
+        enerji 
+        sigortaclk 
+        bahis & sans oyunlar 
+        scaleup 
+        insaat 
+        hava yollar 
+        guvenlik 
+        elektronik 
+        yapay zeka 
+        egitim 
+        freelancer 
+        universite 
+        medya 
+        tekstil 
+        e-donusum 
+        endustriyel 
+        global 
+        fabrika 
+        saas 

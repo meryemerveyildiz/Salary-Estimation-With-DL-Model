@@ -1,0 +1,4 @@
+        - turk liras
+        - euro
+        $ - dolar
+        - sterlin

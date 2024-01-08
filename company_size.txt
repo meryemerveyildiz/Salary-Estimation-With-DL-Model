@@ -1,0 +1,7 @@
+        1 - 5 kisi
+        5 - 10 kisi
+        10 - 20 kisi
+        20 - 50 kisi
+        50 - 100 kisi
+    	100 - 250 kisi
+        250+

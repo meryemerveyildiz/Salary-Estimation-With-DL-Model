@@ -1,0 +1,5 @@
+        hibrit (ofis + remote)
+        remote
+        su an remote ama hibrite donecegiz.
+        ofis
+        su an hibrit ama ofise donecegiz.
