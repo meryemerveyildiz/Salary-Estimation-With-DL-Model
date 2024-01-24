@@ -1,0 +1,9 @@
+
+ÖZET
+
+Bu çalışmada, scikit-learn ve Keras kütüphanelerini kullanarak derin öğrenme yöntemleriyle bir maaş tahmini modeli oluşturmayı ve bu modeli değerlendirmeyi amaçlamaktadır. Adım adım açıklanan işlemlerle, veri ön işleme, model oluşturma, hiperparametre optimizasyonu ve sonuçların değerlendirilmesi adımları detaylı bir şekilde ele alınmıştır. İlk olarak, "veriseti.csv" adlı veri seti yüklenir ve etkili bir şekilde işlenebilmesi için çeşitli ön işleme adımları uygulanır. Bu adımlar arasında kategorik değişkenlerin etiketlenmesi, özel karakterlerin temizlenmesi ve veri setinin standartlaştırılması yer almaktadır. 
+Veri seti hazırlandıktan sonra, bir derin öğrenme modeli tasarlanır. Bu örnekte, 64 nöronlu bir giriş katmanı, 32 nöronlu bir gizli katman ve lineer aktivasyonlu bir çıkış katmanından oluşan bir yapay sinir ağı kullanılmıştır. Modelin performansını artırmak için hiperparametre optimizasyonu yapılır. Bu adım, öğrenme     hızı, mini-batch boyutu ve epoch sayısı gibi parametrelerin en iyi kombinasyonunu bulmayı amaçlar. GridSearchCV kullanılarak en iyi hiperparametre seti bulunur. En iyi hiperparametre seti seçildikten sonra, model bu parametrelerle eğitilir. Eğitilen model, test veri seti üzerinde değerlendirilir ve elde edilen performans ölçütleri hesaplanır.
+Son olarak, eğitilen model kaydedilir ve daha sonra kullanılmak üzere yeniden yüklenir. Bu, modelin daha sonraki kullanımlar için tekrar eğitilmesine gerek olmadan kullanılabilmesini sağlar.
+Kullanılan derin öğrenme modelleri arasında sıralı model (Sequential Model) ve yoğun katmanlar (Dense Layers) Keras kütüphanesinden kullanıldı. Hiperparametre optimizasyonu için GridSearchCV ve aşırı öğrenmeyi önlemek amacıyla erken durdurma (Early Stopping) yöntemleri de kullanıldı. 
+
+Anahtar Kelimeler— Keras, Scikit-Learn, Pandas, Hiperparametre, Derin Öğrenme, Maaş tahmini
